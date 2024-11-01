@@ -1,7 +1,5 @@
-docker*
-Docker*
 .venv
-datas*
 mlartifacts*
 mlruns*
 helpers/__*
+true_datas*
